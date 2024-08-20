@@ -33,6 +33,6 @@
       "flags": {}
     }
   ],
-  "manifest": "packs/operation-weeping-mountain/manifest.json",
-  "download": "packs/operation-weeping-mountain.zip" 
+  "manifest": "https://raw.githubusercontent.com/diabeatz96/operation-weeping-mountain/main/module.json",
+  "download": "https://github.com/diabeatz96/operation-weeping-mountain/releases/latest/download/mountain.zip" 
 }
