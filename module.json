@@ -1,0 +1,38 @@
+{
+  "id": "operation-weeping-mountain",
+  "title": "Operation Weeping Mountain",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "description": "This is a CAIN Starting module meant to help\nintroduce you and your players to the system, as\nwell as giving you something to jump off from as\nan ADMIN.",
+  "authors": [
+    {
+      "name": "Adam Kostandy",
+      "url": "https://github.com/diabeatz96/cain",
+      "flags": {}
+    },
+    {
+      "name": "Eld Jester",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/diabeatz96/cain",
+  "packs": [
+    {
+      "name": "operation-weeping-mountain",
+      "label": "Operation weeping mountain",
+      "path": "packs/operation-weeping-mountain",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cain",
+      "flags": {}
+    }
+  ],
+  "manifest": "packs/operation-weeping-mountain/manifest.json",
+  "download": "packs/operation-weeping-mountain.zip" 
+}
